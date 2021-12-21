@@ -1,0 +1,13 @@
+$nomention
+
+$c[newEmbed]
+  $title[EpicBot Help]
+  $description[This is the official help command for the **EpicBot**.]
+  $footer[Help commands scripted by: HClifton]
+    $addField[Command Help;If you need help with commands you can use this menu. This menu will include all you need to know about the bot commands that you can use with this bot. If you need help on this topic please type `!commands` in your servers bot commands channel or the bot commands channel in our support server!]
+  $color[00dbff]
+
+$c[commandProperties]
+  $deletecommand
+
+$cooldown[1m;Please wait up to 1 minute before you use the help command again!]
