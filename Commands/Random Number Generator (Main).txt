@@ -1,0 +1,28 @@
+$nomention
+
+$botTyping
+
+$c[mainEmbed]
+ $title[EpicBot Random Number Generator]
+ $description[Please select an option from the list bellow]
+ $footer[Select your option by typing "!<option>rng"]
+ $color[8700ff]
+
+$c[rngOptions]
+ $addField[1-10;This option will execute a rng generating a random number from 1 to 10.]
+ $addField[1-25;This option will execute a rng generating a random number from 1 to 25.]
+ $addField[1-50;This option will execute a rng generating a random number from 1 to 50.]
+ $addField[1-100;This option will execute a rng generating a random number from 1 to 100.]
+ $addField[1-150;This option will execute a rng generating a random number from 1 to 150.]
+ $addField[1-300;This option will execute a rng generating a random number from 1 to 300.]
+ $addField[1-500;This option will execute a rng generating a random number from 1 to 500.]
+ $addField[1-1000;This option will execute a rng generating a random number from 1 to 1000.]
+
+$c[embedEdit]
+ $editEmbedIn[2s;EpicBot Random Number Generator;Please select an option from the list bellow **(Instructions on how to use your option is in the footer!)**;Select your option by typing "!<option>rng";8700ff]
+
+$c[commandProperties]
+ $deletecommand
+ $addReations[📢]
+
+$cooldown[30s;Please wait 30 seconds in between opening the main menu again. If you want more help with the command please check back to the previous opened options menu!]
