@@ -1,0 +1,10 @@
+$nomention
+
+$c[Embed Message]
+  $title[Embed Message]
+  $description[$message]
+  $footer[Message created at $hour:$minute]
+    $addField[Embed Message Creator;$username]
+  $color[00ff68]
+
+$cooldown[25s;You must wait 25 seconds in between making embed messages!]
